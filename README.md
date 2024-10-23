@@ -6,7 +6,7 @@
 
 💞️ **Looking to Collaborate On**: I’m seeking collaboration on my project **Chainguard**. You can learn more about it here: [Chaingured: Anomaly & Botnet Detection in Blockchain](https://nilkanthdestiny.blogspot.com/2024/10/chainguard-anomaly-botnet-detection-in.html). I’m particularly looking for insights from developers and researchers in this space.
 
-📫 **How to Reach Me**: Feel free to contact me here or via email at [your-email@example.com].
+📫 **How to Reach Me**: Feel free to contact me here.
 
 😄 **Pronouns**: He/Him
 
